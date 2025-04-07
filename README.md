@@ -107,7 +107,7 @@ const skills = {
 
 
 
-### **Software Engineer| Teemo.ai**
+### **Founding Software Engineer| Teemo.ai**
 *April 2025 – Present | SanFrancisco, USA*
 
 
