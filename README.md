@@ -104,6 +104,13 @@ const skills = {
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
+
+
+
+### **Software Engineer| Teemo.ai**
+*April 2025 – Present | SanFrancisco, USA*
+
+
 ### **AI Software Engineer | Invobot**
 *Jun 2024 – Nov 2024 | Riyadh, SA*
 
@@ -121,12 +128,6 @@ const skills = {
 - Implemented multilingual FAQ system with Redis caching
 - Developed admin panel with WYSIWYG editor
 
-### **Backend Engineer Intern | BharatFD**
-*Feb 2024 – Jul 2024 | Remote*
-
-- Developed scalable backend services with Node.js
-- Implemented secure authentication systems
-- Optimized database queries and API endpoints
 
 <!-- Pixelated Divider -->
 <div align="center">
