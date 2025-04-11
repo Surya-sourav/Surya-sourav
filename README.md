@@ -105,12 +105,6 @@ const skills = {
 </div>
 
 
-
-
-### **Founding Software Engineer| Teemo.ai**
-*April 2025 – Present | SanFrancisco, USA*
-
-
 ### **AI Software Engineer | Invobot**
 *Jun 2024 – Nov 2024 | Riyadh, SA*
 
