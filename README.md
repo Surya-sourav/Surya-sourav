@@ -84,7 +84,7 @@ Hey! I'm Surya Sourav, a Junior CS student and Software Engineer specializing in
 
 <img align="right" alt="Trading" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-- 📈 **Developing Trading Infrastructure** for high-frequency trading systems
+- 📈 **Developing Trading Infrastructure** for Medium-frequency trading systems
 - 🔍 **Building Backtesting Strategies** with advanced quantitative models  
 - ⚡ **Engineering Risk Engines** for real-time portfolio management
 - 🛠️ **Tech Stack**: Python, C++, Redis, Kafka, InfluxDB, PostgreSQL
