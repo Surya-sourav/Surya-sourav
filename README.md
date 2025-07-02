@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00CFFF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+ML+Enthusiast;Building+Innovative+Solutions+With+AI;Transforming+Ideas+Into+Reality;Passionate+About+Tech+%26+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00CFFF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Quant-Dev;Building+Innovative+Solutions+With+AI;Transforming+Ideas+Into+Reality;Passionate+About+Tech+%26+Innovation)](https://git.io/typing-svg)
 
 <!-- Snake animation -->
 <picture>
@@ -17,6 +17,7 @@
 </div>
 
 <!-- Pixelated Tech Banner -->
+
 
 
 ## 🌐 **About Me**
@@ -37,59 +38,38 @@ Hey! I'm Surya Sourav, a Junior CS student and Software Engineer specializing in
 
 ## 🚀 **Tech Stack**
 
-<!-- Animated Tech Stack Icons -->
+### **💻 Programming Languages**
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java&theme=dark" />
 </div>
 
+### **🔧 Backend & Infrastructure**
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,redis,kafka,docker,kubernetes&theme=dark" />
 </div>
 
+### **🗄️ Databases & Storage**
 <div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
+</div>
+
+### **☁️ Cloud & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,cloudflare,github,git&theme=dark" />
+</div>
+
+### **🤖 AI/ML**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMOps-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantitative_Analysis-00D4AA?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-</div>
-
-<!-- Animated Terminal Code Block -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=const+techStack+%3D+%5B'AI'%2C+'ML'%2C+'LLMs'%2C+'Full+Stack'%5D;while+(true)+%7B;++console.log('Building+the+future+with+'+techStack);%7D" alt="Animated Code" />
-</div>
-
-<!-- Animated Skills Terminal -->
-<div align="center">
-  
-```javascript
-const skills = {
-  languages: ['TypeScript', 'JavaScript', 'Python', 'C++', 'Java', 'SQL', 'HTML', 'CSS'],
-  frameworks: ['React', 'Next.js', 'Node.js', 'Express', 'Hono', 'FastAPI', 'Flask'],
-  cloud: ['AWS', 'GCP', 'Firebase', 'Supabase', 'Cloudflare'],
-  databases: ['PostgreSQL', 'MongoDB', 'Redis', 'Neo4j', 'VectorDB'],
-  ai_ml: ['LangGraph', 'LLMs', 'Computer Vision', 'Speech Models', 'ML Algorithms'],
-  concepts: ['Microservices', 'REST APIs', 'Agile', 'Serverless', 'KB Graphs']
-};
-```
+<!-- Tech Stack Code Block -->
 
 </div>
-
 > Currently exploring **LLM fine-tuning**, **LangGraph for complex AI workflows**, and **Computer Vision applications** while building production-ready AI systems.
 
 <!-- Pixelated Divider -->
@@ -99,81 +79,41 @@ const skills = {
 
 ## 💼 **Professional Experience**
 
-<!-- Animated Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
+### **🏦 Quantitative Developer - Backend & Infrastructure | QFI Research Capital**
+*Current | Remote*
 
+<img align="right" alt="Trading" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-### **AI Software Engineer | Invobot**
-*Jun 2024 – Nov 2024 | Riyadh, SA*
+- 📈 **Developing Trading Infrastructure** for high-frequency trading systems
+- 🔍 **Building Backtesting Strategies** with advanced quantitative models  
+- ⚡ **Engineering Risk Engines** for real-time portfolio management
+- 🛠️ **Tech Stack**: Python, C++, Redis, Kafka, InfluxDB, PostgreSQL
+- 📊 Processing **millions of market data points** per second
 
-- Engineered backend infrastructure for WhatsApp CRM system using GraphQL
-- Developed FastAPI backend service for secure LLM deployment
-- Fine-tuned 150M-parameter BART-based LLM with custom datasets
-- Built Auto-Campaigner system for WhatsApp Business API
-- Contributed to 40% increase in customer conversions
+### **🚀 Backend Founding Engineer | Thirdplace**
+*2025 | Startup*
 
-### **Full Stack Developer | SandalTree Soft**
-*Feb 2024 – Jul 2024 | Pune, IN*
+- 🏗️ **Designed & Architected Complete Backend** for booking management service
+- 💳 **Integrated Payment Gateways** with robust transaction handling
+- 🔐 **Built Authorization Systems** with JWT and OAuth2 implementation
+- 🗄️ **Optimized Database Operations** for high-performance queries
+- 📱 Scaled system to handle **10K+ concurrent bookings**
 
-- Architected backend microservice for IoT image capture system
-- Deployed CNN vision model on AWS SageMaker (97% accuracy)
-- Implemented multilingual FAQ system with Redis caching
-- Developed admin panel with WYSIWYG editor
+### **💻 Full Stack Developer | Vettel Tech**
+*2025 | Tech Consultancy*
 
+- 🤖 **Developed Internal AI Tool** for automated workflow optimization
+- 🚛 **Built Logistics Software** for client supply chain management
+- 📊 **Implemented Real-time Tracking** with WebSocket connections
+- 🔧 **Optimized Performance** achieving 40% faster load times
 
-<!-- Pixelated Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
-</div>
+### **🎯 SDE Intern | Invobot**
+*2024 | AI Startup*
 
-## 🚀 **Featured Projects**
-
-<!-- Animated Project GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-</div>
-
-<!-- Project Cards with Pixelated Border -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-sourav&repo=VirtuEye&theme=radical&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="VirtuEye" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-sourav&repo=PaperPilot&theme=radical&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="PaperPilot" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-sourav&repo=HyperSales&theme=radical&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="HyperSales" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-sourav&repo=AI-Copilot&theme=radical&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="AI Copilot" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### **VirtuEye** 🌟
-*C++, Python, OpenCV, Flutter, Haptics, Raspberry Pi Pico, LiDAR*
-
-AI-powered smart glasses for the visually impaired with object detection, text recognition, and haptic feedback. **Google Top 100 Global Finalist** in the Google Solution Challenge 2024.
-
-### **PaperPilot.ai**
-*FastAPI, KB Graphs, VectorDB, LLM*
-
-Academic research AI assistant for PhD scholars and researchers, ranked in top 25 on Product Hunt with growing user base.
-
-### **HyperSales**
-*FastAPI, LangGraph, PostgreSQL, React, LLMs*
-
-Conversational AI plugin transforming websites into hubs for customer support, query resolution, and automated scheduling.
-
-### **AI Copilot for Linux**
-*Open-source AI assistant for Linux OS with NLP, chat support, and auto-completion features*
+- 🤖 **AI-Powered Auto Campaigning System** for WhatsApp Business API
+- 🔄 **GraphQL API Development** with Redis caching layer
+- ⚡ **FastAPI Backend Services** for LLM deployment
+- 🧠 **LLMOps Pipeline** for model versioning and monitoring
 
 <!-- Pixelated Divider -->
 <div align="center">
@@ -201,18 +141,45 @@ Conversational AI plugin transforming websites into hubs for customer support, q
   <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
 </div>
 
+
+## 📊 **GitHub Analytics**
+
+<!-- Holographic Stats Dashboard -->
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surya-sourav&theme=synthwave&background=0D1117&border=00FF41&stroke=00FF41&ring=FF0080&fire=00CFFF&currStreakNum=FFFFFF&sideNums=00CFFF&currStreakLabel=00FF41&sideLabels=FF0080&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-sourav&layout=compact&theme=synthwave&bg_color=0D1117&hide_border=true&border_color=00FF41&text_color=00CFFF&title_color=00FF41)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<!-- Activity Graph -->
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-sourav&theme=synthwave&bg_color=0D1117&color=00CFFF&line=FF0080&point=00FF41&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<!-- Cyber Divider -->
+
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
 ## 📊 **GitHub Stats**
 
 <!-- Animated Stats -->
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surya-sourav&theme=radical&background=0D1117&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-sourav&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&border_color=00FFFF&text_color=FFFFFF&title_color=00FFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
