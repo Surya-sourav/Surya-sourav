@@ -10,13 +10,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 <div align="center">
-
-
-</div>
-
-<!-- Pixelated Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
 </div>
 
 
@@ -25,11 +18,6 @@
 <!-- Animated Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Surya-sourav&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<!-- Pixelated Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
 </div>
 
 
@@ -55,19 +43,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-sourav&theme=synthwave&bg_color=0D1117&color=00CFFF&line=FF0080&point=00FF41&area=true&hide_border=true" width="100%"/>
 
-</div>
-
-<!-- Cyber Divider -->
-
-<div align="center">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<!-- Pixelated Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
 </div>
 
 
