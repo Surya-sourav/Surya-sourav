@@ -8,61 +8,10 @@
 
 </div>
 
-<!-- Pixelated Tech Banner -->
-
-
-
-## 🌐 **About Me**
-
-Hey! I'm Surya Sourav, a Junior CS student and Software Engineer specializing in AI/ML and full-stack development. Currently working as an **AI Software Engineer at Invobot**, I'm passionate about building scalable applications and leveraging AI to solve real-world problems. My experience spans from developing **enterprise-grade CRM systems** to creating **assistive technology for the visually impaired**. I thrive on challenges and am constantly exploring new technologies to expand my skillset.
-
-> 🎯 Always ready to tackle tough coding challenges and develop AI solutions that **improve lives** and **reshape industries**.
-
 <!-- Animated Stats Card -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surya-sourav&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&ring_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
-
-<!-- Pixelated Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
-</div>
-
-## 🚀 **Tech Stack**
-
-### **💻 Programming Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java&theme=dark" />
-</div>
-
-### **🔧 Backend & Infrastructure**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,redis,kafka,docker,kubernetes&theme=dark" />
-</div>
-
-### **🗄️ Databases & Storage**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
-</div>
-
-### **☁️ Cloud & DevOps**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,cloudflare,github,git&theme=dark" />
-</div>
-
-### **🤖 AI/ML**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMOps-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantitative_Analysis-00D4AA?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-</div>
-
-<!-- Tech Stack Code Block -->
-
-</div>
-> Currently exploring **LLM fine-tuning**, **LangGraph for complex AI workflows**, and **Computer Vision applications** while building production-ready AI systems.
 
 <!-- Pixelated Divider -->
 <div align="center">
@@ -119,56 +68,11 @@ Hey! I'm Surya Sourav, a Junior CS student and Software Engineer specializing in
 
 </div>
 
-## 📊 **GitHub Stats**
-
-<!-- Animated Stats -->
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surya-sourav&theme=radical&background=0D1117&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-
 <!-- Pixelated Divider -->
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
 </div>
 
-## 🎯 **Goals & Interests**
-
-<!-- Animated Goals Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=function+goals()+%7B;++return+%5B'AI+Innovation'%2C+'Social+Impact'%2C+'Fintech'%5D;%7D" alt="Animated Goals" />
-</div>
-
-- 📈 Advancing AI/ML technologies for social impact applications
-- 💻 Building scalable, production-ready software systems
-- 🌎 Exploring fintech innovations and industry trends
-- 🌊 Contributing to marine life conservation initiatives
-- 🏕️ Hiking, trekking, camping, and anime in my free time
-
-<!-- Pixelated Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
-</div>
-
-## 💬 **Connect With Me**
-
-<!-- Animated Social Links -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/surya-sourav-parida/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Surya-sourav">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://hashnode.com/@Surya-sourav">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="mailto:surya.aimlx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
 <!-- Visitor Counter with Pixelated Style -->
 <div align="center">
