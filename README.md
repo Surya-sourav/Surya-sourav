@@ -3,14 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20AI%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 <div align="center">
 
 
-</div>
-
-<!-- Animated Stats Card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-sourav&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&ring_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <!-- Pixelated Divider -->
@@ -25,10 +26,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Surya-sourav&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
-- 🌟 **Google Top 100 Global Finalist** for VirtuEye (2024)
-- 🏅 **Google Developer Lead** (2024)
-- 🏆 **ICC Next-NIUM Hackathon Global Qualifier**
 
 <!-- Pixelated Divider -->
 <div align="center">
@@ -90,9 +87,3 @@
 </div>
 
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
