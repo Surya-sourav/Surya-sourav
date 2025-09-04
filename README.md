@@ -77,55 +77,8 @@ Hey! I'm Surya Sourav, a Junior CS student and Software Engineer specializing in
   <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
 </div>
 
-## 💼 **Professional Experience**
-
-### **🏦 Quantitative Developer - Backend & Infrastructure | QFI Research Capital**
-*Current | Remote*
-
-<img align="right" alt="Trading" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
-
-- 📈 **Developing Trading Infrastructure** for Medium-frequency trading systems
-- 🔍 **Building Backtesting Strategies** with advanced quantitative models  
-- ⚡ **Engineering Risk Engines** for real-time portfolio management
-- 🛠️ **Tech Stack**: Python, C++, Redis, Kafka, InfluxDB, PostgreSQL
-- 📊 Processing **millions of market data points** per second
-
-### **🚀 Backend Founding Engineer | Thirdplace**
-*2025 | Startup*
-
-- 🏗️ **Designed & Architected Complete Backend** for booking management service
-- 💳 **Integrated Payment Gateways** with robust transaction handling
-- 🔐 **Built Authorization Systems** with JWT and OAuth2 implementation
-- 🗄️ **Optimized Database Operations** for high-performance queries
-- 📱 Scaled system to handle **10K+ concurrent bookings**
-
-### **💻 Full Stack Developer | Vettel Tech**
-*2025 | Tech Consultancy*
-
-- 🤖 **Developed Internal AI Tool** for automated workflow optimization
-- 🚛 **Built Logistics Software** for client supply chain management
-- 📊 **Implemented Real-time Tracking** with WebSocket connections
-- 🔧 **Optimized Performance** achieving 40% faster load times
-
-### **🎯 SDE Intern | Invobot**
-*2024 | AI Startup*
-
-- 🤖 **AI-Powered Auto Campaigning System** for WhatsApp Business API
-- 🔄 **GraphQL API Development** with Redis caching layer
-- ⚡ **FastAPI Backend Services** for LLM deployment
-- 🧠 **LLMOps Pipeline** for model versioning and monitoring
-
-<!-- Pixelated Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Divider" width="100%" />
-</div>
 
 ## 🏆 **Achievements & Awards**
-
-<!-- Animated Trophy GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
-</div>
 
 <!-- Animated Trophies -->
 <div align="center">
