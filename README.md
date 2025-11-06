@@ -1,16 +1,4 @@
 # Hey there! 👋 I'm Surya Sourav Parida
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20AI%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
-</div>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<div align="center">
-</div>
 
 
 ## 🏆 **Achievements & Awards**
@@ -23,19 +11,6 @@
 
 ## 📊 **GitHub Analytics**
 
-<!-- Holographic Stats Dashboard -->
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surya-sourav&theme=synthwave&background=0D1117&border=00FF41&stroke=00FF41&ring=FF0080&fire=00CFFF&currStreakNum=FFFFFF&sideNums=00CFFF&currStreakLabel=00FF41&sideLabels=FF0080&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-sourav&layout=compact&theme=synthwave&bg_color=0D1117&hide_border=true&border_color=00FF41&text_color=00CFFF&title_color=00FF41)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <!-- Activity Graph -->
 
@@ -46,10 +21,6 @@
 </div>
 
 
-<!-- Visitor Counter with Pixelated Style -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Surya-sourav/count.svg" alt="Visitor Count" />
-</div>
 
 <!-- Animated Matrix-style Footer -->
 <div align="center">
