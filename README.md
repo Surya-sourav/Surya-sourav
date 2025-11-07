@@ -4,9 +4,6 @@
 ## I  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9e9dfaa3-d51e-4f27-97a8-f05af3ab27ef" /> Backend Engineering , Infrastructure , Low Level Stuff 
 
 
-## 📊 **GitHub Analytics**
-
-
 
 <!-- Activity Graph -->
 
