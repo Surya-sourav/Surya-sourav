@@ -1,15 +1,11 @@
 # Hey there! 👋 I'm Surya Sourav Parida
 
 
-## 🏆 **Achievements & Awards**
-
-<!-- Animated Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surya-sourav&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+## I  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9e9dfaa3-d51e-4f27-97a8-f05af3ab27ef" /> Backend Engineering , Infrastructure , Low Level Stuff 
 
 
 ## 📊 **GitHub Analytics**
+
 
 
 <!-- Activity Graph -->
@@ -21,15 +17,5 @@
 </div>
 
 
-
-<!-- Animated Matrix-style Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&animation=twinkling&fontColor=ffffff" width="100%" />
-</div>
-
-<!-- Hidden Pixel Art -->
-<div align="center">
-  <img width="0" height="0" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" />
-</div>
 
 
