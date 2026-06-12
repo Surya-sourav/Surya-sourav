@@ -1,103 +1,79 @@
-<svg width="1400" height="700" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1400" height="700" fill="#0d1117"/>
+<svg width="900" height="450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect width="900" height="450" fill="#0d1117"/>
   
   <!-- Header -->
-  <text x="30" y="40" font-size="18" font-weight="bold" fill="#c9d1d9" font-family="'Courier New', monospace">
+  <text x="20" y="35" font-size="16" font-weight="bold" fill="#c9d1d9" font-family="'Courier New', monospace">
     surya@localhost ~ %
   </text>
   
   <!-- Divider -->
-  <line x1="30" y1="60" x2="1370" y2="60" stroke="#30363d" stroke-width="2"/>
+  <line x1="20" y1="50" x2="880" y2="50" stroke="#30363d" stroke-width="1"/>
   
-  <!-- Left: ASCII Art (Full Resolution) -->
-  <text x="30" y="90" font-size="8" font-family="'Courier New', monospace" fill="#c9d1d9" font-weight="bold" line-height="1.1">
-    <tspan x="30" dy="10">                    @</tspan>
-    <tspan x="30" dy="10">        =    +    =</tspan>
-    <tspan x="30" dy="10">        =    -    +     *</tspan>
-    <tspan x="30" dy="10">        = - = + + ===></tspan>
-    <tspan x="30" dy="10">    ==========:=======*==</tspan>
-    <tspan x="30" dy="10">    :~######@@@@@@@==-:===</tspan>
-    <tspan x="30" dy="10">    !-:~#@@@@@@@@@@@@@#+++:</tspan>
-    <tspan x="30" dy="10">    =~####%@@@@@@@@@@@@@#++</tspan>
-    <tspan x="30" dy="10">    ~#@#%*%@@@@@@@%@@@@@#++:</tspan>
-    <tspan x="30" dy="10">    +#@#@#*%@@@@@@@%@@@%++++</tspan>
-    <tspan x="30" dy="10">    :*%@#@@@@@@@@@@@@@@#+++:</tspan>
-    <tspan x="30" dy="10">    :*%@#@-#...:#%@##-:</tspan>
-    <tspan x="30" dy="10">        @@!+@@##</tspan>
-    <tspan x="30" dy="10">        @@!+@@##:::::::+#@#+=</tspan>
-    <tspan x="30" dy="10">    %@-:@@@@@@@@@@:@@@@#</tspan>
-    <tspan x="30" dy="10">       %@==@@@@@@@@@@@@@@@#:--:+</tspan>
-    <tspan x="30" dy="10">       %@@@@@@@@@@@@@@@@@@@:+:!+</tspan>
-    <tspan x="30" dy="10">       &amp;@*%@@@@@@@@@@@@@@@#:+:!=</tspan>
-    <tspan x="30" dy="10">       @+*%@@@@@@@@@@@@@#::+:!=</tspan>
-    <tspan x="30" dy="10">          ++#@@#@@@@@@@#-:....#-</tspan>
-    <tspan x="30" dy="10">          ++$+=-  .:::::==   ++</tspan>
-    <tspan x="30" dy="10">          -+#%+:+*@@@@@@@#%</tspan>
-    <tspan x="30" dy="10">          ;;===:*%*@@@@@+</tspan>
-    <tspan x="30" dy="10">             ++# _###%*##:.</tspan>
-    <tspan x="30" dy="10">             +#@## ####%##++:</tspan>
-    <tspan x="30" dy="10">             +#@##  ##%*#@#+++=</tspan>
-    <tspan x="30" dy="10">             !%@##@@##@#@@#+++==</tspan>
-    <tspan x="30" dy="10">             !%@##@@##@#@@++++ ==</tspan>
-    <tspan x="30" dy="10">             +@@@#:@@@@@++++++:</tspan>
-    <tspan x="30" dy="10">             +@@@@@++=##@@@%@##</tspan>
-    <tspan x="30" dy="10">             =@@@#++#@#%@@@%+</tspan>
+  <!-- Left: Profile Picture Container -->
+  <g id="profile-pic">
+    <image x="25" y="70" width="280" height="360" href="" clip-path="url(#circleMask)" preserveAspectRatio="xMidYMid slice"/>
+    <defs>
+      <clipPath id="circleMask">
+        <circle cx="165" cy="250" r="140"/>
+      </clipPath>
+    </defs>
+    <circle cx="165" cy="250" r="140" fill="none" stroke="#58a6ff" stroke-width="2"/>
+  </g>
+  
+  <!-- Right: Terminal Info -->
+  <text x="330" y="90" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">os</tspan><tspan fill="#8b949e"> ........... Linux, macOS</tspan>
   </text>
   
-  <!-- Right: Terminal Info (Perfectly aligned) -->
-  <text x="500" y="100" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">os</tspan><tspan fill="#8b949e"> ..................... Linux, macOS</tspan>
+  <text x="330" y="115" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">uptime</tspan><tspan fill="#8b949e"> ... 22 years &amp; continuing</tspan>
   </text>
   
-  <text x="500" y="135" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">uptime</tspan><tspan fill="#8b949e"> ............. 22 years &amp; continuing</tspan>
+  <text x="330" y="140" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">host</tspan><tspan fill="#8b949e"> ........... LocalHost</tspan>
   </text>
   
-  <text x="500" y="170" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">host</tspan><tspan fill="#8b949e"> ................. LocalHost</tspan>
+  <text x="330" y="165" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">kernel</tspan><tspan fill="#8b949e"> ...... Any Kernel You Like</tspan>
   </text>
   
-  <text x="500" y="205" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">kernel</tspan><tspan fill="#8b949e"> ............... Any Kernel You Like</tspan>
+  <text x="330" y="190" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">ide</tspan><tspan fill="#8b949e"> ........... VS Code, IDEA</tspan>
   </text>
   
-  <text x="500" y="240" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">ide</tspan><tspan fill="#8b949e"> ..................... VS Code, IDEA</tspan>
+  <text x="330" y="215" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">languages</tspan><tspan fill="#8b949e"> ... TS, Go, Java, Python, C++</tspan>
   </text>
   
-  <text x="500" y="275" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">languages</tspan><tspan fill="#8b949e"> ......... TypeScript, Go, Java, Python, C++</tspan>
+  <text x="330" y="240" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">software</tspan><tspan fill="#8b949e"> ... Low Level, Backends, AI</tspan>
   </text>
   
-  <text x="500" y="310" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">software</tspan><tspan fill="#8b949e"> ......... Low Level, Backends, AI Pipelines</tspan>
+  <text x="330" y="265" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">hobbies</tspan><tspan fill="#8b949e"> ... Trekking, Traveling, Camping</tspan>
   </text>
   
-  <text x="500" y="345" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">hobbies</tspan><tspan fill="#8b949e"> ........... Trekking, Traveling, Camping</tspan>
+  <text x="330" y="290" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">email</tspan><tspan fill="#8b949e"> ......... surya.aimlx@gmail.com</tspan>
   </text>
   
-  <text x="500" y="380" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">email</tspan><tspan fill="#8b949e"> ............... surya.aimlx@gmail.com</tspan>
+  <text x="330" y="315" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">commits</tspan><tspan fill="#8b949e"> .... Fetching from GitHub...</tspan>
   </text>
   
-  <text x="500" y="415" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">commits</tspan><tspan fill="#8b949e"> ............ Fetching from GitHub...</tspan>
+  <text x="330" y="340" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">repos</tspan><tspan fill="#8b949e"> ......... Fetching from GitHub...</tspan>
   </text>
   
-  <text x="500" y="450" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">repos</tspan><tspan fill="#8b949e"> ............... Fetching from GitHub...</tspan>
+  <text x="330" y="365" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">stars</tspan><tspan fill="#8b949e"> ......... Fetching from GitHub...</tspan>
   </text>
   
-  <text x="500" y="485" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">stars</tspan><tspan fill="#8b949e"> ............... Fetching from GitHub...</tspan>
+  <text x="330" y="390" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
+    <tspan font-weight="bold" fill="#58a6ff">followers</tspan><tspan fill="#8b949e"> ... Fetching from GitHub...</tspan>
   </text>
   
-  <text x="500" y="520" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
-    <tspan font-weight="bold" fill="#58a6ff">followers</tspan><tspan fill="#8b949e"> ........... Fetching from GitHub...</tspan>
-  </text>
-  
-  <text x="500" y="600" font-size="12" font-family="'Courier New', monospace" fill="#c9d1d9">
+  <text x="330" y="430" font-size="11" font-family="'Courier New', monospace" fill="#c9d1d9">
     <tspan fill="#8b949e">$ </tspan><tspan font-weight="bold" fill="#3fb950">cat ~/github-stats</tspan>
   </text>
 </svg>
