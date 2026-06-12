@@ -1,75 +1,36 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="800" height="400" fill="#ffffff"/>
-  
-  <!-- Header -->
-  <text x="20" y="30" font-size="24" font-weight="bold" fill="#1a1a1a" font-family="monospace">
-    surya@localhost ~ %
-  </text>
-  
-  <!-- Divider Line -->
-  <line x1="20" y1="45" x2="780" y2="45" stroke="#e0e0e0" stroke-width="2"/>
-  
-  <!-- Left side - Profile Image (circular) -->
-  <defs>
-    <clipPath id="circleClip">
-      <circle cx="120" cy="200" r="90"/>
-    </clipPath>
-  </defs>
-  
-  <image x="30" y="110" width="180" height="180" href="https://github.com/user-attachments/assets/9e9dfaa3-d51e-4f27-97a8-f05af3ab27ef" clip-path="url(#circleClip)"/>
-  
-  <!-- Circle border -->
-  <circle cx="120" cy="200" r="90" fill="none" stroke="#333333" stroke-width="2"/>
-  
-  <!-- Right side - Terminal Info -->
-  <!-- OS Line -->
-  <text x="240" y="75" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">os</tspan><tspan fill="#666666"> .............. Linux, macOS</tspan>
-  </text>
-  
-  <!-- Uptime Line -->
-  <text x="240" y="105" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">uptime</tspan><tspan fill="#666666"> ........... 22 years &amp; continuing</tspan>
-  </text>
-  
-  <!-- Host Line -->
-  <text x="240" y="135" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">host</tspan><tspan fill="#666666"> .............. LocalHost</tspan>
-  </text>
-  
-  <!-- Kernel Line -->
-  <text x="240" y="165" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">kernel</tspan><tspan fill="#666666"> ............ Any Kernel You Like</tspan>
-  </text>
-  
-  <!-- IDE Line -->
-  <text x="240" y="195" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">ide</tspan><tspan fill="#666666"> ................. VS Code, IDEA</tspan>
-  </text>
-  
-  <!-- Languages Line -->
-  <text x="240" y="225" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">languages</tspan><tspan fill="#666666"> ......... TypeScript, Go, Java, Python, C++</tspan>
-  </text>
-  
-  <!-- Software Hobbies Line -->
-  <text x="240" y="255" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">software</tspan><tspan fill="#666666"> .......... Low Level, Backends, AI Pipelines</tspan>
-  </text>
-  
-  <!-- General Hobbies Line -->
-  <text x="240" y="285" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">hobbies</tspan><tspan fill="#666666"> ........... Trekking, Traveling, Camping</tspan>
-  </text>
-  
-  <!-- Contact Line -->
-  <text x="240" y="315" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan font-weight="bold" fill="#0066cc">email</tspan><tspan fill="#666666"> ............. surya.aimlx@gmail.com</tspan>
-  </text>
-  
-  <!-- Prompt Line -->
-  <text x="240" y="360" font-size="13" font-family="monospace" fill="#1a1a1a">
-    <tspan fill="#666666">$ </tspan><tspan font-weight="bold" fill="#00cc00">cat ~/github-stats</tspan>
-  </text>
+<svg width="980" height="510" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Surya-sourav profile card">
+  <rect width="980" height="510" fill="#ffffff"/>
+  <text x="26" y="40" font-size="24" font-weight="700" fill="#1f2328" font-family="monospace">surya-sourav@localhost ~ %</text>
+  <line x1="24" y1="55" x2="956" y2="55" stroke="#d0d7de" stroke-width="2"/>
+  <text x="34" y="88" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@%%%@@@@@@@@@@@@@@@@@</text>
+  <text x="34" y="100" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@%%%%%%%@@@@@@@@@@@@@@@</text>
+  <text x="34" y="112" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@%%%%%%%%%%@@@@@@@@@@@@@</text>
+  <text x="34" y="124" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@%%%%%%%%%%%@@@@@@@@@@@@</text>
+  <text x="34" y="136" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@%%%%%%%%%%%@@@@@@@@@@@@</text>
+  <text x="34" y="148" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@%%%%%%%##%%@@@@@@@@@@@@</text>
+  <text x="34" y="160" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@%%%%%*++*@@@@@@@@@@@@@</text>
+  <text x="34" y="172" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@%%%%***=+%@@@@@@@@@@@</text>
+  <text x="34" y="184" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@%%%*##*+=#@@@@@@@@@@</text>
+  <text x="34" y="196" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@%%%*###+--*@@@@@@@@@</text>
+  <text x="34" y="208" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@%#*-+#*==--#@@@@@@@@</text>
+  <text x="34" y="220" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@@%+=*#+==--#@@@@@@@@</text>
+  <text x="34" y="232" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@@%=+##++=--#@@@@@@@@</text>
+  <text x="34" y="244" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@@%=+**==+--*@@@@@@@@</text>
+  <text x="34" y="256" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@@%=***====-#@@@@@@@@</text>
+  <text x="34" y="268" font-size="11" fill="#1f2328" font-family="monospace">@@@@@@@@@@@%=*#*====*@@@@@@@@@</text>
+  <text x="390" y="88" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">os        </tspan><tspan fill="#57606a"> : Linux, macOS</tspan></text>
+  <text x="390" y="120" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">uptime    </tspan><tspan fill="#57606a"> : 22 years &amp; continuing</tspan></text>
+  <text x="390" y="152" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">host      </tspan><tspan fill="#57606a"> : LocalHost</tspan></text>
+  <text x="390" y="184" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">kernel    </tspan><tspan fill="#57606a"> : Any Kernel You Like</tspan></text>
+  <text x="390" y="216" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">ide       </tspan><tspan fill="#57606a"> : VS Code, IDEA</tspan></text>
+  <text x="390" y="248" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">languages </tspan><tspan fill="#57606a"> : TypeScript, Go, Java, Python, C++</tspan></text>
+  <text x="390" y="280" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">software  </tspan><tspan fill="#57606a"> : Low Level Systems, Backends, AI Pipelines</tspan></text>
+  <text x="390" y="312" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">hobbies   </tspan><tspan fill="#57606a"> : Trekking, Traveling, Camping</tspan></text>
+  <text x="390" y="344" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#0969da" font-weight="700">email     </tspan><tspan fill="#57606a"> : surya.aimlx@gmail.com</tspan></text>
+  <text x="390" y="380" font-size="14" font-family="monospace" fill="#1f2328"><tspan fill="#57606a">$</tspan> <tspan fill="#1a7f37" font-weight="700">cat ~/github-stats</tspan></text>
+  <text x="390" y="408" font-size="13" font-family="monospace" fill="#57606a">total_commits      : 0</text>
+  <text x="390" y="426" font-size="13" font-family="monospace" fill="#57606a">total_repositories : 0</text>
+  <text x="390" y="444" font-size="13" font-family="monospace" fill="#57606a">total_stars        : 0</text>
+  <text x="390" y="462" font-size="13" font-family="monospace" fill="#57606a">followers          : 0</text>
+  <text x="390" y="480" font-size="13" font-family="monospace" fill="#57606a">lines_of_code*     : 0</text>
 </svg>

@@ -1,16 +1,58 @@
+<p align="center">
+  <a href="https://github.com/Surya-sourav/Surya-sourav">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya-sourav/Surya-sourav/main/dark_mode.svg">
+      <img alt="Surya Sourav profile" src="https://raw.githubusercontent.com/Surya-sourav/Surya-sourav/main/light_mode.svg" width="980">
+    </picture>
+  </a>
+</p>
+
 ## Hey there! 👋 I'm Surya Sourav Parida
 
+I build backend systems, low-level experiments, and AI-first pipelines.
 
-### I  <img width="30" height="60" alt="image" src="https://github.com/user-attachments/assets/9e9dfaa3-d51e-4f27-97a8-f05af3ab27ef" /> working on Full-Stack (Agentic AI Applications),Infra & Low Level Stuff. 
+## 📊 Dynamic GitHub Stats
 
+<!-- DYNAMIC_STATS_START -->
+| Metric | Value |
+| --- | ---: |
+| Total commits (year) | 0 |
+| Public repositories | 0 |
+| Total stars | 0 |
+| Followers | 0 |
+| Lines of code* | 0 |
 
+_Last updated: 2026-06-12 17:07 UTC_
+<!-- DYNAMIC_STATS_END -->
 
-<!-- Activity Graph -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-sourav&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats card" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-sourav&layout=compact&hide_border=true" alt="Top languages card" height="165">
+</p>
 
-<!-- <div align="center"> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-sourav&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true"/> -->
-<!-- </div> -->
+## 🧰 Skills
 
+- **Languages:** TypeScript, Go, Java, Python, C++
+- **IDEs:** VS Code, IntelliJ IDEA
+- **Focus:** Low-level systems, backend architecture, AI pipelines
 
+## ⛰️ Hobbies
 
+- Trekking
+- Traveling
+- Camping
 
+## 📫 Contact
+
+- **Email:** [surya.aimlx@gmail.com](mailto:surya.aimlx@gmail.com)
+
+## ⚙️ Automation Setup
+
+This profile is updated by `.github/workflows/update-readme.yaml` every day at **04:00 UTC** and on pushes to `main`.
+
+Required secret:
+- `PROFILE_STATS_TOKEN`: GitHub personal access token with `read:user` and `repo` scopes.
+
+---
+
+`* Lines of code is an approximate value derived from repository language byte totals.`
