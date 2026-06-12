@@ -13,6 +13,7 @@ import re
 import sys
 import urllib.error
 import urllib.request
+from io import BytesIO
 from dataclasses import dataclass
 from typing import Dict, List
 
@@ -134,7 +135,6 @@ class GitHubClient:
 def download_image(url: str) -> Image.Image:
     with urllib.request.urlopen(url, timeout=30) as response:
         data = response.read()
-    from io import BytesIO
 
     return Image.open(BytesIO(data)).convert("L")
 
@@ -225,7 +225,7 @@ def update_readme(stats: GitHubStats) -> None:
 | Followers | {stats.followers:,} |
 | Lines of code* | {stats.loc:,} |
 
-_Last updated: {dt.datetime.now(dt.UTC).strftime('%Y-%m-%d %H:%M UTC')}_
+_Last updated: {dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}_
 <!-- DYNAMIC_STATS_END -->"""
 
     content, replaced = re.subn(
